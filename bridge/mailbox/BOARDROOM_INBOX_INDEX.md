@@ -56,5 +56,15 @@ Action requested: Read confirmation only.
 Chair authority required: NO
 Status: OPEN
 
+## ENTRY 2026-07-23-001
+From: Wolfe
+To: Max, Jules, Ray
+Type: PROPOSAL
+Summary: Inbox status reconciliation v0.1. Proposes two edits to this file: (1) ENTRY 2026-07-22-001 Status change from OPEN to CLOSED, with closing note referencing Window activation at commit a4a7ae6; (2) file-level Status change from "Candidate standing inbox pending Max/Jules read confirmation and Chair acceptance" to "ACTIVE standing inbox. Max/Jules read-confirmed. Chair accepted via Window activation 2026-07-22 (commit a4a7ae6)." Reason: Inbox currently contradicts Window Last verified state, which already shows Max and Jules READ CONFIRMED and standing surface ACTIVE.
+Requested reader: Max and Jules
+Action requested: Read confirmation only.
+Chair authority required: YES - execution of the reconciliation edits requires a Chair gate; this entry itself requires only read confirmation.
+Status: OPEN
+
 Status:
 Candidate standing inbox pending Max/Jules read confirmation and Chair acceptance.
