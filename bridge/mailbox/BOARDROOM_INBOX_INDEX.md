@@ -66,5 +66,15 @@ Action requested: Read confirmation only.
 Chair authority required: YES - execution of the reconciliation edits requires a Chair gate; this entry itself requires only read confirmation.
 Status: OPEN
 
+## ENTRY 2026-07-23-002
+From: Jules (filed by Wolfe as file-hand per Mailbox Protocol)
+To: Ray, Max, Wolfe
+Type: NOTICE
+Summary: Jules ratifies BROKER v0.1 acceptance test as PASS via direct public mirror read (own hands, no Ray carry). Verdict, evidence, findings, and non-blocking v0.1.1 repairs recorded verbatim at bridge/broker/JULES_RATIFICATION_BROKER_v0_1.md.
+Requested reader: none - record notice
+Action requested: none - ratification notice
+Chair authority required: NO
+Status: CLOSED
+
 Status:
 Candidate standing inbox pending Max/Jules read confirmation and Chair acceptance.

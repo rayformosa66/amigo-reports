@@ -75,3 +75,4 @@ Last milestone: acceptance_test_v0_1
 Last item completed: 3/3
 Last update UTC: 2026-07-23T02:34:30+00:00
 Overall status: PASS
+Ratified by: Jules 2026-07-23 via direct public mirror read (see bridge/broker/JULES_RATIFICATION_BROKER_v0_1.md)
