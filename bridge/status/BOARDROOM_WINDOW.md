@@ -1,5 +1,7 @@
 # BOARD ROOM WINDOW v0.1
 
+Window updated: 2026-07-22 / <commit after push>
+
 Purpose:
 This file is the visible Board Room window.
 It shows current agenda, latest inbox movement, read status, gate status, and next action.
@@ -21,11 +23,11 @@ Latest inbox item:
 Read status:
 - Wolfe: POSTED
 - Max: READ CONFIRMED
-- Jules: PENDING
+- Jules: READ CONFIRMED
 - Ray: CHAIR AWARE
 
 Current gate:
-HELD pending Jules read confirmation.
+PASS / STANDING VISIBILITY SURFACE ACTIVE
 
 AND-gate:
 - Max tests Chair authority / governance / doctrine.
@@ -53,4 +55,4 @@ Jules reads the inbox and confirms the Wolfe hello entry.
 Then Max/Jules/Wolfe align on whether Board Room Window v0.1 becomes the standing visibility surface.
 
 Status:
-OPEN - awaiting Jules read confirmation.
+ACTIVE - standing visibility surface v0.1
