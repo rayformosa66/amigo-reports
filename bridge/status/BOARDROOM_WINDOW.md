@@ -35,11 +35,10 @@ AND-gate:
 - Wolfe tests execution safety / scope / witnessability.
 - No action proceeds unless Max + Jules + Wolfe align, or Ray explicitly rules.
 
-Authorised right now:
-- Create this Board Room Window file.
-- Publish it to amigo-reports.
-- Witness it.
-- Report commit SHA, SHA256, public URL.
+Current authorisation:
+- Visibility surface active.
+- No execution authority granted by this window.
+- Next actions require AND-gate alignment or Chair ruling.
 
 Not authorised:
 - no private cargo
@@ -51,8 +50,15 @@ Not authorised:
 - no execution based on this window
 
 Next action:
-Jules reads the inbox and confirms the Wolfe hello entry.
-Then Max/Jules/Wolfe align on whether Board Room Window v0.1 becomes the standing visibility surface.
+- Board Room may post public-safe inbox entries.
+- Max/Jules/Wolfe may read-confirm.
+- Any execution move must go through AND-gate or Chair.
+
+Last verified state:
+- Wolfe: POSTED / WITNESSED
+- Max: READ CONFIRMED
+- Jules: READ CONFIRMED
+- Chair: AWARE
 
 Status:
-ACTIVE - standing visibility surface v0.1
+ACTIVE - standing visibility surface
