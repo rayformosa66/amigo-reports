@@ -66,3 +66,12 @@ Last verified state:
 
 Status:
 ACTIVE - standing visibility surface
+
+
+
+
+## Broker run status
+Last milestone: acceptance_test_v0_1
+Last item completed: 3/3
+Last update UTC: 2026-07-23T02:34:30+00:00
+Overall status: PASS
