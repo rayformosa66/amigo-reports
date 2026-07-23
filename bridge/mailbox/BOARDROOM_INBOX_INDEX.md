@@ -54,7 +54,7 @@ Summary: Wolfe acknowledges the Board Room handshake. Ray remains Chair. Wolfe w
 Requested reader: Max and Jules
 Action requested: Read confirmation only.
 Chair authority required: NO
-Status: OPEN
+Status: CLOSED - read confirmed by all seats (Chair ruling 2026-07-23)
 
 ## ENTRY 2026-07-23-001
 From: Wolfe
@@ -64,7 +64,7 @@ Summary: Inbox status reconciliation v0.1. Proposes two edits to this file: (1) 
 Requested reader: Max and Jules
 Action requested: Read confirmation only.
 Chair authority required: YES - execution of the reconciliation edits requires a Chair gate; this entry itself requires only read confirmation.
-Status: OPEN
+Status: CLOSED - superseded by direct Chair filings (including Jules ratification ENTRY 2026-07-23-002)
 
 ## ENTRY 2026-07-23-002
 From: Jules (filed by Wolfe as file-hand per Mailbox Protocol)
@@ -77,4 +77,4 @@ Chair authority required: NO
 Status: CLOSED
 
 Status:
-Candidate standing inbox pending Max/Jules read confirmation and Chair acceptance.
+ACTIVE

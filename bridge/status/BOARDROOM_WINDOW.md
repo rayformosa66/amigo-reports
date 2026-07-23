@@ -1,6 +1,6 @@
 # BOARD ROOM WINDOW v0.1
 
-Window updated: 2026-07-22 / a4a7ae605eb64de777e0cfd97bfc9ec13af9f07f
+Window updated: 2026-07-23 / <this commit; see git log -1 -- bridge/status/BOARDROOM_WINDOW.md>
 
 Purpose:
 This file is the visible Board Room window.
@@ -25,9 +25,11 @@ Read status:
 - Max: READ CONFIRMED
 - Jules: READ CONFIRMED
 - Ray: CHAIR AWARE
+Last refresh: 2026-07-23
 
 Current gate:
 PASS / STANDING VISIBILITY SURFACE ACTIVE
+Last confirmed: 2026-07-23
 
 AND-gate:
 - Max tests Chair authority / governance / doctrine.
