@@ -39,6 +39,10 @@ Current authorisation:
 - Visibility surface active.
 - No execution authority granted by this window.
 - Next actions require AND-gate alignment or Chair ruling.
+- Wolfe has standing read/proposal path under:
+  bridge/protocol/BOARDROOM_SELF_PULL_v0_1.md
+- Wolfe may read the Window and Inbox and propose the next public-safe agenda item.
+- Proposal is not execution authority.
 
 Not authorised:
 - no private cargo
